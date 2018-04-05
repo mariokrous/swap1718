@@ -11,7 +11,7 @@
 - Enviar archivo en Maquina2  con ssh:
  `tar czf - ParaCopiar | ssh andreas2@192.168.1.20 'cat > ~/tmp/www.tgz'`
 
-![enter image description here](https://raw.githubusercontent.com/marioskr/swap1718/practica2/2.PNG)
+![enter image description here](https://raw.githubusercontent.com/marioskr/swap1718/master/practica2/2.PNG)
 
 **2\. clonado de una carpeta entre las dos máquinas**
 - Crear archivo para clonar en /var/www en Maquina 1: rsync_archivo
