@@ -1,5 +1,5 @@
 # SWAP 2017-2018 -  Práctica 1
-***Marios Krousarlis, DNI: AH702636*** 
+***Marios Krousarlis*** 
 
 ----------
 **1\. acceder por ssh de una máquina a otra**
