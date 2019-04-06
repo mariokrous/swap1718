@@ -1,5 +1,5 @@
 # SWAP 2017-2018 -  Práctica 4
-***Marios Krousarlis, DNI: AH702636***
+***Marios Krousarlis***
 
 ----------
 
