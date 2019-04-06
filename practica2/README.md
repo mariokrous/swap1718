@@ -1,5 +1,5 @@
 # SWAP 2017-2018 -  Práctica 2
-***Marios Krousarlis, DNI: AH702636***
+***Marios Krousarlis***
 
 ----------
 **1\. probar el funcionamiento de la copia de archivos por ssh**
